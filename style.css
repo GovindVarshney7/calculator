@@ -21,7 +21,7 @@ html,body{
 }
 .vid{
     position: absolute;
-    left: -11%;
+    left: -7%;
     top: 21%;
     z-index: 1;
     transform: translate(-100%,-100%);
@@ -31,7 +31,7 @@ html,body{
 }
 .vid2{
 	position: absolute;
-    right: -11%;
+    right: -7%;
     top: 21%;
     z-index: 1;
     transform: translate(-100%,-100%);
